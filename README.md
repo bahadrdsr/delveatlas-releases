@@ -1,2 +1,2 @@
-# enviromentor-releases
-Enviromentor installers and update feed
+# Delve Atlas releases
+Delve Atlas installers and update feed
